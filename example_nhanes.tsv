@@ -1,0 +1,301 @@
+age	sex	re	income	dx	gh	bmi	waist
+53	male	Other Hispanic	High	1	7.36	28.0	66.1
+39	male	Non-Hispanic White	Medium	0	4.83	27.4	80.3
+19	male	Non-Hispanic Black	High	0	6.26	24.9	56.3
+17	male	Mexican American	Medium	1	8.03	33.2	92.5
+35	male	Other Race Including Multi-Racial	High	0	4.94	31.5	86.7
+38	female	Other Race Including Multi-Racial	Medium	0	5.67	15.9	45.4
+58	female	Non-Hispanic Black	Low	0	5.81	33.5	80.4
+69	female	Other Race Including Multi-Racial	Low	1	7.16	22.7	65.4
+31	female	Other Hispanic	Low	0	6.3	30.0	83.2
+55	female	Other Race Including Multi-Racial	Medium	0	4.5	17.8	50.7
+46	female	Non-Hispanic White	Low	0	5.32	33.1	87.1
+61	female	Non-Hispanic White	Medium	0	5.12	22.5	57.0
+39	female	Non-Hispanic Black	High	0	4.49	33.4	95.0
+47	male	Other Hispanic	High	0	6.04	22.9	64.2
+60	male	Non-Hispanic Black	Low	1	7.36	33.6	84.1
+45	female	Non-Hispanic White	Low	0	5.74	22.6	65.8
+28	male	Other Hispanic	High	0	4.93	30.2	87.2
+19	male	Non-Hispanic White	Low	0	5.99	32.2	91.3
+25	male	Other Race Including Multi-Racial	Low	0	6.37	24.8	70.0
+60	male	Mexican American	Medium	0	6.0	24.6	66.8
+74	female	Other Hispanic	Medium	0	6.66	33.5	90.1
+32	male	Non-Hispanic Black	High	0	4.72	22.9	51.5
+79	female	Non-Hispanic White	High	0	4.47	25.7	67.2
+76	female	Non-Hispanic Black	High	0	6.35	36.7	98.2
+42	female	Non-Hispanic Black	Low	0	5.52	28.0	79.6
+45	male	Other Race Including Multi-Racial	Medium	0	5.75	40.7	104.2
+58	male	Non-Hispanic Black	Low	0	5.94	30.2	73.9
+12	female	Mexican American	High	1	5.76	24.2	56.1
+37	female	Non-Hispanic Black	Medium	0	4.95	34.8	98.9
+63	male	Non-Hispanic Black	Low	0	5.71	33.6	91.9
+71	male	Other Race Including Multi-Racial	High	0	5.55	23.1	59.8
+13	male	Other Race Including Multi-Racial	High	0	5.22	17.7	51.9
+39	male	Mexican American	Low	0	5.65	33.6	90.4
+28	male	Mexican American	Medium	0	6.21	29.4	73.8
+76	male	Other Race Including Multi-Racial	Low	0	6.71	27.6	74.7
+31	male	Non-Hispanic Black	Medium	0	5.57	28.3	77.6
+78	female	Non-Hispanic White	High	1	7.55	31.4	89.3
+15	male	Other Hispanic	Medium	0	5.79	21.0	56.5
+47	female	Other Race Including Multi-Racial	High	0	5.14	26.8	62.3
+45	male	Other Hispanic	Low	0	5.44	23.6	66.4
+42	female	Non-Hispanic White	Low	0	5.94	16.6	49.3
+58	male	Mexican American	Low	0	6.7	29.3	91.2
+62	female	Non-Hispanic Black	High	0	6.21	31.5	80.5
+37	female	Mexican American	Low	0	5.51	33.3	90.7
+68	male	Other Hispanic	Medium	0	5.38	39.2	114.3
+41	male	Non-Hispanic White	Medium	0	6.63	29.6	78.2
+28	female	Mexican American	Medium	1	7.78	26.8	71.7
+19	male	Other Hispanic	Low	0	5.1	29.1	78.8
+45	male	Other Race Including Multi-Racial	Low	1	7.65	25.8	66.3
+46	male	Non-Hispanic White	High	0	6.41	39.2	100.8
+45	male	Non-Hispanic Black	Low	0	5.06	22.5	62.2
+34	female	Mexican American	Low	0	6.27	27.9	75.6
+76	male	Other Race Including Multi-Racial	Medium	0	4.99	29.4	75.1
+62	female	Non-Hispanic Black	Low	0	4.99	30.9	76.6
+29	female	Mexican American	Low	0	6.47	27.6	78.4
+19	male	Other Hispanic	High	0	4.88	26.3	74.7
+49	male	Other Hispanic	Low	1	6.67	31.3	97.5
+53	male	Non-Hispanic White	Medium	0	5.28	28.8	81.9
+22	female	Mexican American	High	0	5.43	35.7	104.1
+30	female	Other Race Including Multi-Racial	Low	0	6.2	24.8	73.7
+22	male	Other Race Including Multi-Racial	Medium	0	5.27	21.3	56.0
+30	male	Other Race Including Multi-Racial	High	0	6.45	25.2	62.4
+79	male	Other Race Including Multi-Racial	High	0	5.81	23.6	66.3
+58	male	Other Hispanic	Medium	0	5.85	22.1	54.6
+43	female	Mexican American	Low	0	7.1	32.0	88.2
+79	male	Other Hispanic	Medium	0	5.81	29.1	75.6
+38	male	Other Hispanic	Medium	0	6.94	32.1	86.3
+37	male	Other Race Including Multi-Racial	Low	0	5.78	22.5	54.5
+29	male	Other Hispanic	Low	0	5.81	26.6	73.0
+78	female	Other Hispanic	Medium	0	6.78	34.8	101.1
+37	female	Non-Hispanic White	Medium	1	5.82	32.4	92.8
+46	female	Non-Hispanic Black	Low	1	7.01	37.0	104.4
+45	female	Non-Hispanic Black	High	0	4.19	26.4	70.2
+74	female	Non-Hispanic White	Low	1	6.95	24.5	66.4
+50	male	Other Hispanic	Medium	0	6.16	30.1	79.2
+62	male	Non-Hispanic Black	High	1	7.89	29.8	76.6
+20	female	Other Hispanic	High	1	7.95	26.2	73.2
+18	female	Non-Hispanic Black	Low	0	4.93	23.0	63.8
+59	female	Non-Hispanic White	High	0	6.42	22.5	61.3
+64	female	Other Race Including Multi-Racial	Low	0	6.11	26.6	73.4
+28	male	Other Hispanic	Medium	0	5.14	34.8	97.8
+42	female	Other Hispanic	High	0	5.54	32.2	91.8
+21	male	Other Race Including Multi-Racial	Medium	0	4.81	28.3	76.7
+36	male	Non-Hispanic White	Low	0	4.82	30.1	83.3
+45	male	Non-Hispanic White	High	0	4.79	32.6	89.0
+19	female	Mexican American	High	0	5.93	31.2	88.4
+39	male	Mexican American	Low	0	5.14	22.8	58.1
+14	male	Non-Hispanic White	Medium	0	6.53	31.5	81.6
+74	male	Non-Hispanic White	Medium	0	6.71	24.3	60.3
+25	male	Non-Hispanic Black	Low	0	5.6	22.1	48.8
+70	male	Other Race Including Multi-Racial	Low	1	8.04	34.6	101.1
+28	female	Other Race Including Multi-Racial	High	0	5.74	27.2	71.2
+50	male	Other Hispanic	Medium	0	5.62	26.6	70.1
+52	male	Other Hispanic	High	0	6.46	27.2	86.2
+51	male	Non-Hispanic White	Low	0	5.38	22.4	60.1
+59	male	Other Hispanic	Low	0	6.83	26.1	65.8
+62	male	Non-Hispanic White	Medium	0	5.35	26.9	76.9
+36	male	Other Hispanic	Low	0	5.45	28.8	76.2
+75	male	Non-Hispanic Black	Medium	0	5.08	16.5	47.6
+39	male	Other Race Including Multi-Racial	Low	0	6.15	26.2	67.7
+69	female	Non-Hispanic White	Low	0	5.68	29.8	88.1
+16	female	Other Hispanic	Medium	0	4.91	24.8	67.8
+22	female	Non-Hispanic White	Medium	0	6.09	22.8	61.8
+51	female	Non-Hispanic White	Low	0	5.03	29.1	84.5
+69	male	Mexican American	Medium	0	4.91	28.1	76.0
+63	male	Other Hispanic	Low	0	6.81	27.6	72.8
+36	male	Other Race Including Multi-Racial	Medium	0	4.68	37.7	109.8
+52	female	Mexican American	Low	0	6.03	19.5	47.5
+20	male	Non-Hispanic Black	Low	0	7.07	23.7	61.1
+67	female	Non-Hispanic Black	Medium	0	6.22	29.7	72.4
+31	male	Mexican American	Medium	0	5.71	20.4	50.1
+32	male	Other Hispanic	Low	0	5.47	20.8	56.9
+32	female	Non-Hispanic White	Low	0	5.79	28.1	68.0
+69	male	Non-Hispanic Black	Low	0	5.9	21.6	53.2
+80	male	Mexican American	Medium	0	5.94	30.8	82.8
+35	male	Non-Hispanic Black	Low	0	6.3	29.7	78.4
+20	female	Mexican American	Low	0	5.55	36.0	88.4
+25	male	Other Hispanic	Low	0	4.0	28.2	75.4
+49	male	Non-Hispanic White	Low	0	6.6	25.9	74.3
+34	female	Other Race Including Multi-Racial	Medium	0	5.25	26.7	71.6
+56	male	Non-Hispanic White	Medium	0	8.61	32.8	96.4
+38	male	Mexican American	Medium	0	5.85	28.7	81.5
+38	male	Other Hispanic	High	0	4.53	31.9	84.6
+80	male	Non-Hispanic Black	Medium	0	5.65	23.6	65.9
+51	female	Non-Hispanic White	Medium	0	6.25	23.5	71.9
+58	male	Other Hispanic	High	0	5.92	32.0	84.5
+32	female	Non-Hispanic White	Low	0	6.1	23.3	63.4
+30	female	Non-Hispanic White	High	0	5.6	22.9	66.1
+30	female	Mexican American	Low	0	5.8	25.9	60.9
+37	female	Non-Hispanic Black	Low	0	5.65	25.4	68.8
+61	male	Other Race Including Multi-Racial	High	0	6.47	34.4	93.8
+37	female	Non-Hispanic Black	High	0	6.27	22.1	63.2
+61	female	Non-Hispanic White	Low	0	5.58	16.5	50.8
+16	female	Non-Hispanic White	Medium	0	5.59	20.3	52.6
+51	female	Mexican American	High	0	5.2	30.1	78.1
+12	female	Other Hispanic	Low	0	5.31	20.2	48.3
+34	female	Other Hispanic	Low	1	6.62	33.7	92.9
+17	male	Non-Hispanic Black	Low	0	4.58	23.9	71.9
+22	male	Other Race Including Multi-Racial	Medium	0	5.45	25.9	76.2
+26	male	Non-Hispanic Black	Medium	0	5.85	30.3	73.6
+40	male	Mexican American	High	0	6.41	35.9	95.5
+30	female	Other Race Including Multi-Racial	Medium	0	6.77	26.5	77.5
+52	female	Non-Hispanic White	Low	0	6.59	37.0	95.4
+33	female	Non-Hispanic White	High	1	5.69	38.2	93.0
+69	male	Mexican American	High	0	4.9	32.5	86.3
+30	female	Mexican American	Low	0	7.63	30.7	90.3
+18	female	Other Race Including Multi-Racial	Medium	0	6.76	24.9	76.8
+12	male	Non-Hispanic Black	Low	0	4.67	23.3	59.2
+58	male	Non-Hispanic Black	Medium	0	5.7	26.1	75.2
+25	female	Other Race Including Multi-Racial	Low	0	5.46	26.2	73.3
+58	female	Non-Hispanic Black	Low	1	7.63	22.6	59.3
+30	female	Other Hispanic	Medium	0	5.58	35.7	99.6
+56	female	Other Race Including Multi-Racial	High	0	5.77	37.8	108.0
+63	male	Non-Hispanic Black	Low	1	7.57	30.1	80.5
+37	male	Other Hispanic	Low	0	4.94	21.4	51.8
+77	female	Non-Hispanic White	Medium	0	6.46	35.0	94.2
+73	male	Other Hispanic	Medium	0	4.81	28.8	74.3
+25	female	Non-Hispanic Black	High	1	7.1	25.7	76.5
+45	male	Mexican American	High	0	4.51	30.4	78.2
+39	male	Other Race Including Multi-Racial	Low	1	7.01	37.9	96.9
+37	male	Mexican American	Low	0	5.32	30.3	87.7
+80	female	Other Hispanic	High	0	5.46	30.4	77.9
+41	female	Non-Hispanic Black	Medium	0	6.97	32.2	87.7
+25	male	Mexican American	Low	0	5.58	29.7	80.7
+17	male	Non-Hispanic White	Low	0	5.4	23.7	69.9
+20	female	Non-Hispanic White	Low	0	5.16	28.0	76.5
+23	female	Other Hispanic	Low	1	7.19	23.0	60.9
+45	male	Mexican American	Medium	0	6.26	35.1	97.3
+53	female	Mexican American	High	0	5.77	25.8	67.4
+72	male	Other Race Including Multi-Racial	High	0	5.88	28.4	75.0
+48	male	Other Hispanic	Low	0	5.4	35.1	99.1
+24	female	Non-Hispanic Black	Medium	0	5.66	32.8	87.0
+32	female	Non-Hispanic Black	High	0	6.35	37.2	101.1
+25	female	Mexican American	Low	0	4.64	18.7	57.0
+23	female	Non-Hispanic White	Medium	0	5.31	37.7	96.9
+41	female	Non-Hispanic Black	High	0	5.6	24.5	59.8
+16	female	Other Race Including Multi-Racial	Medium	0	5.88	23.0	57.9
+71	female	Mexican American	High	0	5.71	23.4	69.4
+42	male	Mexican American	Medium	0	6.07	20.9	54.2
+53	female	Non-Hispanic Black	Low	0	4.0	32.1	99.3
+25	male	Non-Hispanic White	Low	0	6.69	26.1	69.9
+37	male	Non-Hispanic White	Medium	0	4.83	26.0	71.0
+63	female	Non-Hispanic Black	High	0	5.79	28.0	75.2
+12	male	Other Hispanic	High	0	6.46	27.0	67.7
+41	male	Non-Hispanic Black	High	1	6.62	31.6	82.1
+43	female	Non-Hispanic Black	Medium	0	4.22	26.0	70.3
+64	male	Mexican American	Low	0	4.0	27.9	81.4
+32	male	Other Race Including Multi-Racial	Medium	1	7.23	24.4	63.1
+72	male	Mexican American	High	0	5.88	21.5	61.2
+77	male	Other Race Including Multi-Racial	Medium	0	5.94	26.9	77.5
+19	male	Non-Hispanic White	Medium	0	4.66	21.6	56.2
+50	female	Other Race Including Multi-Racial	Low	0	5.54	32.4	86.1
+33	male	Non-Hispanic White	High	0	4.83	20.8	57.3
+64	female	Mexican American	High	0	5.48	28.0	70.1
+41	female	Other Hispanic	High	0	5.21	28.4	84.7
+47	female	Non-Hispanic Black	High	0	5.69	21.8	59.5
+22	female	Non-Hispanic Black	Medium	0	6.65	30.3	89.1
+29	female	Other Race Including Multi-Racial	Low	0	4.81	27.5	76.1
+49	female	Other Race Including Multi-Racial	Low	0	5.96	24.5	57.8
+38	female	Other Race Including Multi-Racial	Low	0	5.94	21.8	46.1
+23	female	Non-Hispanic Black	Medium	0	4.3	25.4	59.0
+27	female	Other Hispanic	Low	0	6.02	20.7	57.0
+73	female	Non-Hispanic Black	High	0	5.06	27.1	73.5
+53	female	Other Race Including Multi-Racial	Medium	0	5.67	29.6	75.8
+65	male	Non-Hispanic Black	High	0	5.76	26.2	78.6
+54	male	Other Race Including Multi-Racial	Medium	0	6.06	28.1	75.1
+65	male	Mexican American	Low	0	5.32	31.2	75.8
+38	female	Other Hispanic	Medium	0	5.39	18.2	46.0
+49	female	Other Hispanic	Medium	0	7.11	26.0	68.3
+75	male	Mexican American	Low	0	6.34	25.0	73.8
+23	male	Other Hispanic	High	0	4.67	30.6	80.7
+17	male	Other Hispanic	High	0	5.57	32.5	89.9
+60	male	Other Race Including Multi-Racial	High	1	8.26	31.7	83.4
+35	male	Other Hispanic	Low	0	5.24	24.3	61.6
+29	female	Other Race Including Multi-Racial	High	0	5.25	32.0	84.2
+18	female	Other Race Including Multi-Racial	High	1	7.56	36.7	105.3
+63	female	Non-Hispanic White	Low	0	4.0	18.2	47.6
+64	male	Non-Hispanic White	High	0	5.5	32.6	83.7
+66	male	Non-Hispanic White	High	0	7.24	26.2	71.2
+72	male	Mexican American	High	0	6.27	19.1	54.1
+18	female	Non-Hispanic Black	High	0	5.14	33.2	82.2
+44	male	Non-Hispanic White	Low	1	7.15	35.7	91.3
+22	female	Mexican American	Medium	0	6.12	35.6	94.4
+59	female	Other Hispanic	High	1	7.31	32.4	87.0
+32	female	Other Hispanic	Medium	0	4.99	28.2	76.3
+47	male	Other Race Including Multi-Racial	High	0	5.04	29.1	74.6
+13	male	Other Race Including Multi-Racial	Medium	0	5.85	26.4	67.6
+41	female	Mexican American	High	1	7.55	29.6	85.1
+17	female	Non-Hispanic Black	High	1	8.11	28.6	68.9
+75	female	Other Race Including Multi-Racial	Low	0	5.59	22.1	60.1
+41	female	Other Race Including Multi-Racial	Low	0	5.15	27.7	74.5
+61	female	Other Race Including Multi-Racial	Low	0	6.98	25.9	71.4
+62	female	Other Race Including Multi-Racial	Medium	0	5.44	25.3	69.4
+49	female	Other Race Including Multi-Racial	High	0	6.1	28.8	68.1
+43	male	Other Hispanic	Medium	0	5.09	31.0	87.5
+15	female	Mexican American	High	0	5.65	29.8	82.3
+74	male	Mexican American	Medium	0	7.07	24.2	70.7
+44	male	Mexican American	Low	0	4.0	26.1	71.3
+16	female	Other Hispanic	Medium	0	5.58	26.0	66.1
+27	male	Mexican American	Medium	0	5.06	19.1	41.9
+76	female	Non-Hispanic Black	Medium	0	5.61	29.7	79.6
+44	female	Non-Hispanic White	High	0	5.22	27.8	73.7
+77	female	Non-Hispanic White	Low	1	7.52	18.2	47.3
+68	male	Other Hispanic	Medium	0	5.35	23.3	66.0
+60	male	Other Hispanic	Low	0	7.07	21.6	47.5
+16	male	Non-Hispanic Black	Low	0	5.67	34.0	84.0
+29	female	Non-Hispanic White	Medium	0	4.96	23.0	57.1
+73	male	Mexican American	Low	0	7.03	26.7	68.9
+69	male	Other Hispanic	Low	0	5.54	28.5	75.7
+54	male	Mexican American	Medium	1	8.57	24.5	67.7
+31	male	Non-Hispanic Black	High	0	5.39	30.8	84.6
+45	male	Non-Hispanic Black	Low	0	6.29	24.4	67.4
+49	male	Non-Hispanic White	Medium	0	5.48	29.3	88.6
+79	female	Non-Hispanic Black	Medium	0	6.01	30.0	79.2
+35	male	Non-Hispanic Black	High	0	5.44	23.8	66.1
+75	female	Non-Hispanic Black	Low	1	7.59	26.6	65.7
+36	female	Non-Hispanic Black	Low	1	6.98	24.9	66.9
+56	female	Mexican American	High	0	5.53	26.1	70.5
+73	male	Mexican American	Low	0	6.26	22.8	64.1
+12	female	Other Race Including Multi-Racial	Medium	0	5.9	31.2	86.3
+43	female	Other Hispanic	High	0	6.95	30.8	88.8
+77	male	Other Race Including Multi-Racial	High	1	7.24	30.1	83.4
+35	male	Non-Hispanic White	Medium	0	5.62	25.9	76.3
+36	female	Non-Hispanic White	High	0	6.18	23.4	64.0
+68	male	Mexican American	Low	0	6.22	27.7	68.9
+47	male	Non-Hispanic White	Low	0	5.7	31.4	89.9
+41	male	Other Race Including Multi-Racial	Medium	0	6.28	35.0	99.1
+65	male	Other Hispanic	Low	0	5.58	25.0	70.6
+54	female	Other Race Including Multi-Racial	Medium	0	5.87	25.6	56.6
+57	male	Other Hispanic	High	0	5.58	22.9	66.5
+20	female	Other Hispanic	Low	0	5.78	27.4	82.5
+70	male	Non-Hispanic White	Low	0	5.67	18.9	43.3
+46	male	Other Race Including Multi-Racial	Low	0	4.92	26.3	74.9
+51	female	Non-Hispanic Black	Low	1	7.03	40.9	107.6
+46	male	Other Hispanic	High	0	5.87	29.1	81.4
+64	female	Mexican American	Low	0	6.27	26.8	68.3
+70	male	Other Hispanic	Low	0	4.91	34.8	92.1
+51	male	Non-Hispanic Black	Medium	0	6.46	22.1	59.3
+62	male	Mexican American	Low	0	5.88	33.4	86.1
+39	female	Non-Hispanic White	Low	1	7.12	39.2	110.0
+68	male	Other Race Including Multi-Racial	Medium	0	5.16	33.7	76.1
+31	female	Mexican American	High	0	5.23	23.9	58.4
+47	male	Other Hispanic	Medium	0	5.27	16.3	51.1
+12	female	Other Race Including Multi-Racial	High	1	7.84	17.4	56.4
+31	female	Mexican American	High	0	4.95	30.8	75.4
+49	female	Other Hispanic	High	0	5.98	23.7	66.9
+75	female	Other Hispanic	Medium	0	5.82	29.6	74.0
+23	female	Mexican American	High	0	5.01	30.3	80.9
+66	male	Non-Hispanic White	Low	0	6.33	24.4	61.7
+67	female	Other Hispanic	Medium	0	5.73	23.1	59.8
+13	male	Other Race Including Multi-Racial	Low	1	6.33	33.6	84.7
+36	female	Other Hispanic	Medium	0	5.22	15.2	29.3
+55	male	Non-Hispanic Black	Medium	0	7.05	25.7	67.0
+49	female	Other Race Including Multi-Racial	Medium	0	5.66	17.9	46.9
+38	male	Other Hispanic	Low	1	6.77	29.1	72.2
+17	female	Non-Hispanic White	Low	0	4.95	26.8	71.9
+50	female	Non-Hispanic White	High	1	7.63	30.6	83.4
+80	male	Other Race Including Multi-Racial	Low	0	5.1	29.1	80.6
+77	male	Non-Hispanic White	Low	1	8.24	28.1	70.7
+19	male	Other Race Including Multi-Racial	Medium	1	7.04	30.3	85.8
