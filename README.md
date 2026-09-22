@@ -28,16 +28,6 @@ diabetes o prediabetes. Los resultados se organizan en 5 pestañas:
 - **Resumen** — tabla con N total, media/mediana de HbA1c, media de IMC y
   de circunferencia de cintura, todo recalculado según los filtros activos.
 
-## Capturas
-
-| Comparación por grupos | HbA1c vs antropometría |
-|---|---|
-| ![Grupos](assets/tab_grupos.png) | ![Antropometría](assets/tab_antropometria.png) |
-
-| HbA1c por edad | Resumen |
-|---|---|
-| ![Edad](assets/tab_edad.png) | ![Resumen](assets/tab_resumen.png) |
-
 ## Formato de entrada esperado
 
 Archivo delimitado (tab/coma/punto y coma) con estas columnas:
