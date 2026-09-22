@@ -5,7 +5,7 @@ hemoglobina glicosilada (HbA1c) y variables antropométricas y
 sociodemográficas, sobre datos de la encuesta NHANES.
 
 Es el complemento interactivo de
-[hba1c-diabetes-analysis](https://github.com/camireeb/hba1c-diabetes-analysis):
+[hba1c-diabetes-analysis](https://github.com/camilareeb/hba1c-diabetes-analysis):
 mientras ese repo contiene el análisis estático (EDA, modelos, conclusiones),
 esta app permite explorar los mismos datos de forma dinámica, filtrando por
 subgrupos y comparando visualmente.
