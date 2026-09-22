@@ -1,11 +1,13 @@
 # NHANES HbA1c Explorer
 
+**Demo en vivo:** https://stn6ny-camila-reeb.shinyapps.io/nhanes-hba1c-explorer/
+
 Aplicación interactiva en R Shiny para explorar la relación entre la
 hemoglobina glicosilada (HbA1c) y variables antropométricas y
 sociodemográficas, sobre datos de la encuesta NHANES.
 
 Es el complemento interactivo de
-[hba1c-diabetes-analysis](https://github.com/camilareeb/hba1c-diabetes-analysis):
+[hba1c-diabetes-analysis](https://github.com/camireeb/hba1c-diabetes-analysis):
 mientras ese repo contiene el análisis estático (EDA, modelos, conclusiones),
 esta app permite explorar los mismos datos de forma dinámica, filtrando por
 subgrupos y comparando visualmente.
@@ -26,6 +28,15 @@ diabetes o prediabetes. Los resultados se organizan en 5 pestañas:
 - **Resumen** — tabla con N total, media/mediana de HbA1c, media de IMC y
   de circunferencia de cintura, todo recalculado según los filtros activos.
 
+## Capturas
+
+| Comparación por grupos | HbA1c vs antropometría |
+|---|---|
+| ![Grupos](assets/tab_grupos.png) | ![Antropometría](assets/tab_antropometria.png) |
+
+| HbA1c por edad | Resumen |
+|---|---|
+| ![Edad](assets/tab_edad.png) | ![Resumen](assets/tab_resumen.png) |
 
 ## Formato de entrada esperado
 
